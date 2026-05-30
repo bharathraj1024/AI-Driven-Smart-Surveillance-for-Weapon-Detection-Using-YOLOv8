@@ -93,7 +93,8 @@ AI-Smart-Surveillance-System/
 
 ### Login Interface
 
-<img width="317" height="352" alt="Login Interface" src="https://github.com/user-attachments/assets/a82267e8-ee0f-405a-a57d-6914266f8422" />
+<img width="317" height="352" alt="Login_ _Registration" src="https://github.com/user-attachments/assets/3be96045-bea4-430d-811f-9b26ecfd7786" />
+
 
 ---
 
