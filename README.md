@@ -91,7 +91,7 @@ AI-Smart-Surveillance-System/
 
 <img width="966" height="467" alt="Email_Alert" src="https://github.com/user-attachments/assets/b4853c1f-58ff-40d2-b002-a811d7ef47a3" />
 
-<img width="400" height="2000" alt="Mobile Alert" src="https://github.com/user-attachments/assets/a19cc29b-2c8e-4af1-a02a-e20d37271b6a" />
+<img width="400" height="2400" alt="Mobile Alert" src="https://github.com/user-attachments/assets/a19cc29b-2c8e-4af1-a02a-e20d37271b6a" />
 
 
 ---
