@@ -1,4 +1,4 @@
-# AI – DRIVEN SMART SURVEILLANCE FOR WEAPON DETECTION USING YOLOv8
+# AI–DRIVEN SMART SURVEILLANCE FOR WEAPON DETECTION USING YOLOv8
 
 ## Demo Video
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-The AI -  Driven Smart Surveillance for Weapon Detection Using YOLOv8 is a real-time surveillance and security application developed using YOLOv8, OpenCV, Django, and PyQt5. The system detects handguns from live webcam feeds and sends alerts through an integrated backend server.
+The AI-Driven Smart Surveillance for Weapon Detection Using YOLOv8 is a real-time surveillance and security application developed using YOLOv8, OpenCV, Django, and PyQt5. The system detects handguns from live webcam feeds and sends alerts through an integrated backend server.
 
 This project was developed as a major academic project to improve public safety through intelligent monitoring and real-time threat detection.
 
@@ -43,24 +43,6 @@ This project was developed as a major academic project to improve public safety 
 
 ### Machine Learning
 - YOLOv8 Object Detection
-
----
-
-## System Workflow
-
-```plaintext
-Webcam Feed
-      ↓
-YOLOv8 Handgun Detection
-      ↓
-Threat Alert Generation
-      ↓
-Email / Mobile Notification
-      ↓
-Detection Data Storage
-      ↓
-Dashboard Monitoring
-```
 
 ---
 
@@ -119,7 +101,7 @@ AI-Smart-Surveillance-System/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Prince-of-Morocco/AI-Smart-Surveillance-System.git
+git clone https://github.com/bharathraj1024/AI-Driven-Smart-Surveillance-for-Weapon-Detection-Using-YOLOv8.git
 ```
 
 ---
@@ -160,7 +142,7 @@ python manage.py runserver
 2. Webcam monitoring starts
 3. YOLOv8 detects handguns in real time
 4. Detected frames are sent to Django backend
-5. Real-time alerts are sent through registered email or mobile number
+5. Real-time alerts are sent through configured email or mobile notification services
 6. Detection logs and monitoring records are stored
 7. Users can access previous detection history through the dashboard
 
