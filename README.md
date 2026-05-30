@@ -100,15 +100,17 @@ AI-Smart-Surveillance-System/
 
 ### Detection Window
 
-<img width="872" height="568" alt="Detection Window" src="https://github.com/user-attachments/assets/d20ee375-5eb5-4090-bc73-c9503ab29b3c" />
+<img width="872" height="568" alt="Detection_window" src="https://github.com/user-attachments/assets/80034f7c-f25a-4257-b7e4-a75f91b276c5" />
+
 
 ---
 
 ### Alert Notification System [Email & Mobile Alerts]
 
-<img width="966" height="467" alt="Email Alert" src="https://github.com/user-attachments/assets/16578bd1-b837-4d29-b1d0-80da9c0e577f" />
+<img width="966" height="467" alt="Email_Alert" src="https://github.com/user-attachments/assets/b4853c1f-58ff-40d2-b002-a811d7ef47a3" />
 
-<img width="1080" height="2412" alt="Mobile Alert" src="https://github.com/user-attachments/assets/735fb3ca-4435-4379-9a4b-ab4d2cf4a77c" />
+<img width="1080" height="2412" alt="Mobile Alert" src="https://github.com/user-attachments/assets/a19cc29b-2c8e-4af1-a02a-e20d37271b6a" />
+
 
 ---
 
